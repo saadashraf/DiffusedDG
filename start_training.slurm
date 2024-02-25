@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J triagerx
+#SBATCH -J diff-dg
 #SBATCH -t 24:00:00
 #SBATCH -n 1
 #SBATCH --mem=50G
